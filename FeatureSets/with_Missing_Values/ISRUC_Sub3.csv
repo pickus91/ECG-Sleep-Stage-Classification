@@ -1,4 +1,4 @@
-,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,Labels
+,ANN,ANNdetrended,SDNN,MedianNN,MedianNNdetrended,RangeNN,rMMSD,SDSD,NN50,pNN50,avgHR,Percentile10NN,Percentile10NNdetrended,Percentile25NN,Percentile25NNdetrended,Percentile75NN,Percentile75NNdetrended,Percentile90NN,Percentile90NNdetrended,IQR,MinMaxNNdiff,MeanAbsDiffNN,MeanAbsDiffNNdetrend,MeanAbsDeviationNN,MeanAbsDeviationNNdetrended,MedianAbsDeviationNN,MedianAbsDeviationNNdetrended,VLF_RAW,VLF_NU,LF_RAW,LF_NU,HF_RAW,HF_NU,TOT_RAW,LFHF_RATIO,VLF_NU_LOG,LF_NU_LOG,HF_NU_LOG,LFHF_RATIO_LOG,VLF_PEAK,LF_PEAK,HF_PEAK,VLF_RAW_BA,VLF_NU_BA,LF_RAW_BA,LF_NU_BA,HF_RAW_BA,HF_NU_BA,TOT_RAW_BA,LFHF_RATIO_BA,VLF_NU_LOG_BA,LF_NU_LOG_BA,HF_NU_LOG_BA,LFHF_RATIO_LOG_BA,DFAalpha1,DFAalpha2,MSE1,MSE2,MSE3,MSE4,MSE5,MSE6,MSE7,MSE8,MSE9,MSE10,Labels
 0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S1
 1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S2
 2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S2
